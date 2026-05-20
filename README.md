@@ -113,22 +113,6 @@
 </table>
 
 ---
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuaazTasawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuaazTasawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MuaazTasawar&theme=tokyonight&hide_border=true"/>
-
-</div>
 <div>
 <div align="center">
 
