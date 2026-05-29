@@ -39,7 +39,7 @@
 - Working on **AI pipelines, computer vision, and production backends**
 - Ask me about **Flutter · Go · .NET · YOLOv8 · System Design · gRPC · Android**
 - Currently shipping **[PULSE](https://github.com/MuaazTasawar/pulse-news-app)** · **[NeuralVault](https://github.com/MuaazTasawar/NeuralVault)** · **[SafeVision AI](https://github.com/MuaazTasawar/SafeVision-AI)**
-- 📬 Reach me at **[muaaztasawar1@email.com](mailto:muaaztasawar1@gmail.com)**
+- 📬 Reach me at **[muaaztasawar1@gmail.com](mailto:muaaztasawar1@gmail.com)**
 
 ---
 
