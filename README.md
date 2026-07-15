@@ -140,16 +140,6 @@
 - **[go-taskmaster](https://github.com/MuaazTasawar/go-taskmaster)** — Production Go API, dual REST + gRPC servers, goroutine worker pool, token bucket rate limiter, all 4 gRPC streaming patterns.
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00d4ff/MuaazTasawar" alt="MuaazTasawar's GitHub contribution graph"/>
-</div>
-
----
 <div>
 <div align="center">
 
